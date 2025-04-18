@@ -1,18 +1,5 @@
 # Data-Analytics
 
-Project - I
-
-📊 Sales Performance Dashboard for Retail Analytics
-Tech Stack: Python | SQL | Power BI
-
-This project analyzes sales trends, customer segmentation, and inventory efficiency using Python, SQL, and Power BI. It includes:
-
-Data Cleaning & Transformation: Using pandas for structured data preparation.
-
-Customer Segmentation: Applying RFM analysis to categorize customers.
-
-SQL-Based Sales Insights: Aggregating data by region, product, and time.
-
-Power BI Dashboard: Interactive visuals with KPIs, drill-downs, and forecasting.
-
-📌 Edge: Uses a real Irish retail dataset (e.g., CSO Ireland) to enhance local relevance.
+This repository showcases a collection of data analytics projects I’ve worked on, demonstrating my skills in data preprocessing, exploratory data analysis (EDA), statistical modeling, and visualization. 
+Each project involves extracting insights from real-world datasets using tools like Python (pandas, NumPy, matplotlib, seaborn), SQL, and Excel. 
+The goal is to uncover meaningful patterns, support data-driven decision-making, and solve business problems across various domains such as telecom, healthcare, and finance.
